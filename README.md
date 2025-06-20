@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashan-kogul" alt="hashan-kogul" /></a> </p>
 
-- 👨‍💻 Visit my portfolio [https://hashan-kogul-portfolio-phi.vercel.app/](https://hashan-kogul-portfolio-phi.vercel.app/)
+- 👨‍💻 Visit my portfolio [https://hashan-kogul-portfolio-blush.vercel.app/](https://hashan-kogul-portfolio-blush.vercel.app/)
 - 📫 How to reach me  **hashankogul99uoj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
